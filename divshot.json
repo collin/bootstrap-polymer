@@ -1,0 +1,7 @@
+{
+  "name": "bs-poly",
+  "root": "./",
+  "clean_urls": true,
+  "cache_control": {},
+  "routes": {}
+}
